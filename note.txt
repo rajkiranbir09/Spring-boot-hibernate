@@ -1,0 +1,175 @@
+Hibernate with Spring boot 
+Todo: da check het
++ File upload support : article+tut, book, github project
++ Join, procedure, trigger , function with MySQL and Hibernate - Join query : DEN HET CUOI TUAN NAY, transaction , locking
++ Expose XML file : tut, book, github project 
++ External API integration - Google map - Banking API - Payment API : tut, book, github project 
++ Invoice
++ Check design pattern in hibernate: Proxy pattern for lazy loading
++ Hibernate performance tuning: mass update and remove, config 2nd cache , specific tuning options
++ entity lifecycle
++ Data filter: tut(dang check ), book, github project
++ Interceptor and event
++ Call trigger and procedure
++ 2nd level cache, 1st level cache, query cache
++ Versioning object
++ Maintain history of object
++ DDL : tut, book, gitbub project
++ transaction : JTA, flush the session , pessimistic and optimistic locking, using versioning, using timestamp, optimise locking
++ Doc het Hibernate docs
+Advanced book:https://www.reddit.com/r/java/comments/5svzzs/best_advanced_spring_boot_books/
+Advance query need to be include
++ Doc het doc cua hibernate :
+
+
+
+--------------
+
+https://github.com/tmanev/quis-listing
++ Save JSON data type to database check: https://vladmihalcea.com/how-to-map-json-objects-using-generic-hibernate-types/ 
+
+Config : http://www.baeldung.com/the-persistence-layer-with-spring-and-jpa
+
+Query : https://www.mkyong.com/hibernate/hibernate-many-to-many-example-join-table-extra-column-annotation/
+Query : http://www.in28minutes.com/jpa-and-hibernate-tutorial-with-spring-boot
+
+Base : https://github.com/eresearchrmit/estored
+
+Base : https://github.com/beamofsoul/BusinessInfrastructurePlatformGroupVersion
+SQL relationship: https://github.com/callicoder/jpa-hibernate-tutorials 
+Base project : https://github.com/ykameshrao/spring-mvc-angular-js-hibernate-bootstrap-java-single-page-jwt-auth-rest-api-webapp-framework
+
+Base project : https://github.com/juanca87/example-envers
+Base project : https://github.com/dmitrykhramov/Online-Bank-Simulator
+
+
+
+Article: 
+https://www.concretepage.com/spring-boot/spring-boot-rest-jpa-hibernate-mysql-example
+https://www.mkyong.com/spring-boot/spring-boot-hibernate-search-example/
+
+
+
+
+
+Base : https://github.com/dzinot/spring-boot-jpa-data-rest-soft-delete
+
+
+
+
+
+
+
+https://github.com/nkpznkpz/NewZa-Social-Network
+
+https://github.com/iqbalsublime/Ednet
+https://github.com/sunilpulugula/SpringSecuritySocialLoginExample
+
+https://github.com/eresearchrmit/estored
+
+https://github.com/bavenka/RESTful-API-SportShop
+https://github.com/andela-Kshittu/SalesOrder-SpringBoot-Swing-MySql-Hibernate
+https://github.com/karolpat/Final-Project-CodersLab
+https://github.com/ameypophali/RESTful-website-Java-SpringBoot-backend
+https://github.com/ejperez71/MyBigJavaProject
+https://github.com/runjia1987/springboot-jpa-cqrs-swagger-markup
+Base project : https://github.com/atereshkov/Diber-backend
+base big project : https://github.com/mhaddon/SpringBoot-AirportDemoProject
+https://github.com/ZhuXS/Spring-Shiro-Spark
+https://github.com/dszfw/booking-app
+https://github.com/karolpat/Final-Project-CodersLab
+Base ;https://github.com/sstjerne/campsite-booking-api
+https://github.com/juniorhc/listavip
+https://github.com/KonstantinasFalkovskis/UsersList
+https://github.com/llka/apartments_task2
+https://github.com/hendisantika/spring-boot-ehcache
+https://github.com/ameypophali/RESTful-website-Java-SpringBoot-backend
+https://github.com/kongkwj/SpringHibernateProject
+https://github.com/sujamait/Projects
+https://github.com/philipsorst/angular-rest-springsecurity
+https://github.com/xewu/Online-Banking-Web-Service---Java-Spring-Boot
+https://github.com/salahatwa/Hospital-Management-System
+Big project : https://github.com/rahulkadam/redis-elastic-search-springBoot-demo
+Big : https://github.com/caodangtinh/tinhcao
+https://github.com/dmitrykhramov/Online-Bank-Simulator
+
+https://github.com/rodrigo-brito/onibus-api
+https://github.com/N9mo/spring-boot-rest-upload-sample
+https://github.com/AlikJoke/CSVLoader
+https://github.com/varunchandra36/cartrackerApp
+https://github.com/otero9/footballTraining
+https://github.com/satuk/cama-api
+Base project:
+
+https://github.com/riffert/textgroup
+https://github.com/sunny-udhani/online_file_sharing_springboot
+Big base project : https://github.com/xaverric/dms
+https://github.com/adamzareba/company-structure-spring-security-oauth2-cache
+https://github.com/MichaelRudyy/Library-Rest-App
+https://github.com/Heisenberg404/BackEndNinjaFinal
+https://github.com/dSouthz/webApp
+https://github.com/sokolinthesky/bus_tickets_v2
+https://github.com/riffert/textgroup
+base : https://github.com/beamofsoul/BusinessInfrastructurePlatformGroupVersion
+https://github.com/wangf111/hibernateSptialPostgreSql
+https://github.com/HabibeGuler/spring-framework.examples
+https://github.com/alexandremq/RESTful-AngularJS-Spring-JPA-Hibernate
+https://github.com/Santosh01/ArticleZone
+https://github.com/DouglasChenH/spring_userRegistration_emailVerification
+https://github.com/DjexNS/spring-boot-hibernate-users
+https://github.com/joshuacross/photo-gallery
+https://github.com/KonstantinasFalkovskis/UsersList
+https://github.com/sjsu-sushant/job-portal
+https://github.com/Fytyny/blogapp
+https://github.com/basanta-spring-boot/Spring-Boot-Hibernate-Join
+https://github.com/hexagonframework/spring-data-ebean
+https://github.com/AlikJoke/CSVLoader
+https://github.com/li7nux/spring-boot-sftp
+https://github.com/joshuacross/photo-gallery
+https://github.com/tmanev/quis-listing
+https://github.com/andymccall/twibble.co
+https://github.com/4data/hibernate-memcached
+https://github.com/adamzareba/EntityGraph
+https://github.com/springer63/spring-boot-plus
+https://github.com/ali-sadri/AgileManager/tree/master/src/main/java/com/agile/controller
+https://github.com/ak826843/onlinetestchallenge
+https://github.com/iqbalsublime/Ednet
+https://github.com/nmerris/Job-Pro-5K
+https://github.com/prasadmate28/CSCI-6370-Database-Management-System
+https://github.com/cj848/spring-social-hibernate
+https://github.com/sartios/bsc-thesis-java-spring-hibernate-social-networks
+https://github.com/chkal/criteria4jpa
+https://github.com/ameypophali/RESTful-website-Java-SpringBoot-backend
+https://github.com/ben-tes/Enterprise-Arch-Labs
+https://github.com/alphamu/Group-Deal-Clone
+https://github.com/kaiserahmed-isu/LinkedU
+https://github.com/developershyam/CSV-Demo
+https://github.com/danlo8600/PhotoSocial
+https://github.com/jaguar51/blog-server
+https://github.com/adamzareba/company-structure-hibernate-history
+https://github.com/ipsha1545/Linkedin-Prototype/tree/master/src/main/java/JobPortal
+https://github.com/bytefish/VersioningWithEnvers
+Book project(big): Building web apps with spring 5 and angular
+CSV : https://github.com/developershyam/CSV-Demo 
+Role and user : https://github.com/Dongor7/my-web-site
+Base : https://github.com/mduhovniy/TutorialApp_aws_backend
+Tham khao task : https://github.com/warrenmnocos/application-config/blob/master/application_document.pdf
+Redis : https://github.com/kongcheng123/testSpringBoot
+
+------- BIG PORTFOLIO PROJECT FROM BOOK
++ Spring persistence with Hibernate - second edition : Audio manager project app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
